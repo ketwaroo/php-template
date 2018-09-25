@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-        "zordius/lightncandy": "dev-master",
+        "zordius/lightncandy": "dev-master"
     },
     "require-dev": {
         "ketwaroo/debug-helper": "dev-master"
